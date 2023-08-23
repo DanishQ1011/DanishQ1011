@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shah</h1>
 <h3 align="center">A Web Dev by day and a creative designer by night.</h3>
 
-<img align="right" alt="Coding" width="40px" height="40px"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+<img align="right" alt="Coding" width="120px" height="120px"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 - 🔭 I’m currently working on **Portfolio Website using Gatsby**
 
