@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shah</h1>
 <h3 align="center">A Web Dev by day and a creative designer by night.</h3>
 
+<img alt="Coding" src="https://i.gifer.com/5eKX.gif">
+
 - 🔭 I’m currently working on **Portfolio Website using Gatsby**
 
 - 🌱 I’m currently learning **MERN Stack in deep**
