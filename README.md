@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on designing and building the Web<br>👯 I’m looking to collaborate on starting a UI/UX business<br>🌱 I’m currently learning Web development and cloud computing<br>💬 Ask me about anything related to design <br>⚡ Fun fact - I like getting drunk (on coffee)
+🔭 I’m currently working on designing and building Web Apps<br>👯 I’m looking to collaborate on starting a UI/UX business<br>🌱 I’m currently learning Web development and cloud computing<br>💬 Ask me about anything related to design <br>⚡ Fun fact - I like getting drunk (on coffee)
 
 
 ## 🌐 Socials:
